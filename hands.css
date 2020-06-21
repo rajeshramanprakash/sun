@@ -1,0 +1,36 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.contner{
+	background-color:skyblue;
+	height: 900px;
+	width:100%;
+	
+	
+}
+.image{
+	background-color: white;
+	height: 900px;
+	width:40%;
+	float: right;
+	
+	
+}
+.image p{
+	text-decoration: none;
+	color: red;
+}
+#txt{
+	background-color:red;
+	height: 900px;
+	width:60%;
+	float: top;
+	margin-right: 10px;
+	
+}
+#down{
+	background-color: green;
+	height: 200px;
+	width: 100%;
+}
